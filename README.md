@@ -12,38 +12,7 @@ Quest AI is an interactive AI-powered storytelling platform where users create a
 - ⚡ Fast and interactive web interface
 - 🏗 Modular backend and frontend architecture
 
----
-
-# 🏗 Project Structure
-
-
-Quest-AI
-│
-├── backend
-│ ├── core
-│ ├── routers
-│ ├── schemas
-│ ├── init.py
-│ ├── main.py
-│ ├── database.db
-│ ├── requirements.txt
-│ ├── pyproject.toml
-│ └── README.md
-│
-├── frontend
-│ ├── public
-│ ├── src
-│ ├── index.html
-│ ├── package.json
-│ ├── package-lock.json
-│ ├── vite.config.js
-│ └── README.md
-│
-├── LICENSE
-└── README.md
-
-
----
+ ---
 
 # ⚙️ Technology Stack
 
